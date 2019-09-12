@@ -1,0 +1,1 @@
+java -jar loginAndPassGen-all-1.0.jar
